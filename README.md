@@ -22,23 +22,6 @@
 
 <br>
 
-<h2><strong>Estatísticas do GitHub</strong></h2>
-
-<div align="center">
-  <samp>
-<div align="center">
-  <img
-    src="./assets/github-stats.svg"
-    alt="GitHub Stats"
-    width="100%"
-  />
-</div>
-
-</samp>
-</div>
-
-<br>
-
 <h2><strong>Histórico de contribuições</strong></h2>
 
 <div align="center">
@@ -57,6 +40,23 @@
       width="100%"
     >
   </picture>
+</div>
+
+<br>
+
+<h2><strong>Estatísticas do GitHub</strong></h2>
+
+<div align="center">
+  <samp>
+<div align="center">
+  <img
+    src="./assets/github-stats.svg"
+    alt="GitHub Stats"
+    width="100%"
+  />
+</div>
+
+</samp>
 </div>
 
 </samp>
