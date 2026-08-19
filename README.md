@@ -25,11 +25,16 @@
 <h2><strong>Estatísticas do GitHub</strong></h2>
 
 <div align="center">
+  <samp>
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jonasmaia-newtour&show_icons=true&hide_border=true&bg_color=0d1117&title_color=99f6e4&text_color=ffffff&icon_color=93c5fd"
+    src="./assets/github-stats.svg"
     alt="GitHub Stats"
-    height="170"
+    width="100%"
   />
+</div>
+
+</samp>
 </div>
 
 <br>
